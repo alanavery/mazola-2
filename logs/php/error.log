@@ -1,0 +1,32 @@
+[27-Aug-2022 21:40:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php on line 172
+[27-Aug-2022 21:40:11 UTC] PHP Stack trace:
+[27-Aug-2022 21:40:11 UTC] PHP   1. {main}() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:0
+[27-Aug-2022 21:40:11 UTC] PHP   2. do_action_ref_array() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:138
+[27-Aug-2022 21:40:11 UTC] PHP   3. WP_Hook->do_action() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/plugin.php:524
+[27-Aug-2022 21:40:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:331
+[27-Aug-2022 21:40:11 UTC] PHP   5. wp_version_check() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:307
+[27-Aug-2022 21:40:11 UTC] PHP   6. trigger_error() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php:172
+[27-Aug-2022 21:40:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php on line 410
+[27-Aug-2022 21:40:11 UTC] PHP Stack trace:
+[27-Aug-2022 21:40:11 UTC] PHP   1. {main}() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:0
+[27-Aug-2022 21:40:11 UTC] PHP   2. do_action_ref_array() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:138
+[27-Aug-2022 21:40:11 UTC] PHP   3. WP_Hook->do_action() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/plugin.php:524
+[27-Aug-2022 21:40:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:331
+[27-Aug-2022 21:40:11 UTC] PHP   5. wp_update_plugins() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:307
+[27-Aug-2022 21:40:11 UTC] PHP   6. trigger_error() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php:410
+[27-Aug-2022 21:40:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php on line 690
+[27-Aug-2022 21:40:11 UTC] PHP Stack trace:
+[27-Aug-2022 21:40:11 UTC] PHP   1. {main}() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:0
+[27-Aug-2022 21:40:11 UTC] PHP   2. do_action_ref_array() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:138
+[27-Aug-2022 21:40:11 UTC] PHP   3. WP_Hook->do_action() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/plugin.php:524
+[27-Aug-2022 21:40:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:331
+[27-Aug-2022 21:40:11 UTC] PHP   5. wp_update_themes() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:307
+[27-Aug-2022 21:40:11 UTC] PHP   6. trigger_error() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php:690
+[28-Aug-2022 14:55:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php on line 172
+[28-Aug-2022 14:55:21 UTC] PHP Stack trace:
+[28-Aug-2022 14:55:21 UTC] PHP   1. {main}() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:0
+[28-Aug-2022 14:55:21 UTC] PHP   2. do_action_ref_array() /Users/alan/Local Sites/mazola-2/app/public/wp-cron.php:138
+[28-Aug-2022 14:55:21 UTC] PHP   3. WP_Hook->do_action() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/plugin.php:524
+[28-Aug-2022 14:55:21 UTC] PHP   4. WP_Hook->apply_filters() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:331
+[28-Aug-2022 14:55:21 UTC] PHP   5. wp_version_check() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/class-wp-hook.php:307
+[28-Aug-2022 14:55:21 UTC] PHP   6. trigger_error() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/update.php:172
