@@ -2,7 +2,6 @@
 engine = On
 {{#if os.windows}}
 extension_dir="{{extensionsDir}}"
-sys_temp_dir="C:\Windows\TEMP"
 {{/if}}
 
 ; Maxes
@@ -73,7 +72,6 @@ upload_max_filesize = 300M
 allow_url_fopen = On
 allow_url_include = Off
 default_socket_timeout = 60
-openssl.cafile="{{wpCaBundlePath}}"
 
 {{#if os.windows}}
 ; Load extensions
@@ -130,9 +128,6 @@ pdo_mysql.default_port = {{mysql.port}}
 [filter]
 [iconv]
 [intl]
-{{#if os.windows}}
-extension = php_intl.dll
-{{/if}}
 [sqlite]
 [sqlite3]
 [Pcre]
@@ -204,8 +199,7 @@ ldap.max_links = -1
 [imagick]
 {{#if os.windows}}
 extension = php_imagick.dll
-{{/if}}
-{{#if intelChipMac}}
+{{else}}
 extension = {{extensionsDir}}/imagick.so
 {{/if}}
 
@@ -228,14 +222,10 @@ zend_extension = php_xdebug.dll
 zend_extension = {{extensionsDir}}/xdebug.so
 {{/if}}
 
-{{#if xdebugEnabled}}
-xdebug.mode=debug,develop
-{{else}}
-xdebug.mode=off
-{{/if}}
-xdebug.client_port=9003
-xdebug.start_with_request=trigger
-xdebug.discover_client_host=yes
+xdebug.remote_enable=1
+xdebug.remote_connect_back=Off
+xdebug.remote_port="9000"
+xdebug.profiler_enable=0
 
 [Pcre]
 pcre.jit=0 {{! Disable due to limitation with macOS Notarization }}
