@@ -37,3 +37,4 @@
 [19-Jun-2023 20:47:15 UTC] PHP   2. require() /Users/alan/Local Sites/mazola-2/app/public/index.php:17
 [19-Jun-2023 20:47:15 UTC] PHP   3. require_once() /Users/alan/Local Sites/mazola-2/app/public/wp-blog-header.php:19
 [19-Jun-2023 20:47:15 UTC] PHP   4. include() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/template-loader.php:106
+[19-Jun-2023 21:05:33 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ';' or ',' in /Users/alan/Local Sites/mazola-2/app/public/wp-content/themes/mazola-2/single-program.php on line 53
