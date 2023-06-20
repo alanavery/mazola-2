@@ -15,6 +15,10 @@ function mazola_features() {
   register_nav_menu('footer_location_1', 'Footer Menu 1');
   register_nav_menu('footer_location_2', 'Footer Menu 2');
   add_theme_support('title-tag');
+  add_theme_support('post-thumbnails');
+  add_image_size('professorLandscape', 400, 260, true);
+  add_image_size('professorPortrait', 480, 650, true);
+  add_image_size('pageBanner', 1500, 350, true);
 }
 
 add_action('after_setup_theme', 'mazola_features');
