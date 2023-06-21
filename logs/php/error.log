@@ -38,3 +38,93 @@
 [19-Jun-2023 20:47:15 UTC] PHP   3. require_once() /Users/alan/Local Sites/mazola-2/app/public/wp-blog-header.php:19
 [19-Jun-2023 20:47:15 UTC] PHP   4. include() /Users/alan/Local Sites/mazola-2/app/public/wp-includes/template-loader.php:106
 [19-Jun-2023 21:05:33 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ';' or ',' in /Users/alan/Local Sites/mazola-2/app/public/wp-content/themes/mazola-2/single-program.php on line 53
+[21-Jun-2023 12:48:31 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20210902
+PHP    compiled with module API=20190902
+These options need to match
+ in Unknown on line 0
+[21-Jun-2023 12:48:31 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20210902
+PHP    compiled with module API=20190902
+These options need to match
+ in Unknown on line 0
+[21-Jun-2023 12:48:50 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:50 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:51 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:52 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:53 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:54 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:54 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:54 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:54 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:57 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:58 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:48:59 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:01 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:02 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:02 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:02 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[21-Jun-2023 12:49:02 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
